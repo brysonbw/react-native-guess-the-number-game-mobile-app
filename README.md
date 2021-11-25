@@ -5,10 +5,11 @@
 ### Technologies, Frameworks, & Languages:
 
 - React Native
+- React
 - JavaScript
 - CSS
 - Expo/Expo-Cli
 
 ### Link to app:
 
--
+- https://expo.dev/@brysonbw/guess-the-number-game
