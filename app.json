@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "rn-guess-the-number-game",
-    "slug": "rn-guess-the-number-game",
+    "name": "Guess The Number Game",
+    "slug": "guess-the-number-game",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/guess-the-number-logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/guess-the-number-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -26,7 +26,8 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/guess-the-number-logo.png"
+    },
+    "description": "A game where the computer guesses a number selected by an anonymous user. The user gives the computer hints after every guess that is incorrect by directing the computer to guess 'lower' or 'higher'."
   }
 }
